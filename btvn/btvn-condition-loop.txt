@@ -1,0 +1,17 @@
+Câu lệnh điều kiện:
+1. Cho 3 số nguyên. Tìm số lớn nhất trong 3 số đó
+2. Viết chương trình nhập vào điểm của một học viên. Kết quả trả về là xếp loại của học viên đó. 
+Yêu cầu:
+	- Lớn hơn 8 điểm là giỏi 
+	- Lớn hơn 6,5 điểm là khá
+	- Lớn hơn 5 điểm là trung bình
+	- Còn lại là yếu
+3. Viết chương trình nhập vào 1 số. Nếu số đó lớn hơn 0 thì in ra chuỗi "Positive", nhỏ hơn 0 thì in chuỗi "Negative", bằng 0 thì in ra chính số 0
+
+Câu lệnh lặp
+1. Viết chương trình tính giai thừa của 1 số
+2. In ra màn hình 20 số nguyên tố đầu tiên
+3. In ra màn hình 20 số đầu tiên của dãy số fibonacci
+4. Viết chương trình tính lãi kép cho 1 ngân hàng. Đầu vào có số tiền gửi, lãi suất và số tháng gửi
+5. Viết chương trình in ra các số từ 1 -> 100. Nếu số đó chia hết cho 3 in ra từ "Hello", chia hết cho 5 in ra từ "World", chia hết cho cả 3 và 5 in ra từ "HelloWorld". Các số khác in ra số như bình thường
+6. Viết một game đơn giản. Người dùng nhập vào 2 số bất kỳ, random 1 số nằm giữa 2 số đó. Người chơi có thể nhập vào 3 lần, nếu nhỏ hơn số random thì in ra chuỗi "Tăng lên", nếu cao hơn số random thì in ra chuỗi "Giảm xuống", nếu đoán trúng số random thì thông báo "Bạn đã thắng". Sau 3 lần không đoán trúng thì thông báo "Bạn đã thua"

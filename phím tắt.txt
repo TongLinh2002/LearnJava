@@ -1,0 +1,2 @@
+ main (ctrl + khoảng trắng= hàm main)
+sysout (ctrl + khoảng trắng  = để in ra màn hình   
